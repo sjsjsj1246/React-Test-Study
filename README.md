@@ -1,6 +1,4 @@
-# React Testing Study
-
-- skill: React, React Testing Library, Jest
+![image](https://user-images.githubusercontent.com/24623403/155338627-a34f6369-b7ae-4079-9eda-e41c67d68268.png)
 
 ## index
 
