@@ -99,7 +99,6 @@ test("renders learn react link", () => {
 - queryBy
   - 쿼리에 대해 일치하는 노드를 반환하고 일치하는요소가 없으면 null을 반환합니다. 이것은 존재하지 않는 요소를 어설션하는데 유용합니다. 둘 이상의 일치 항목이 발견되면 오류가 발생합니다.(확인된 경우 대신 queryAllBy 사용)
 - findBy
-
   - 주어진 쿼리와 일치하는 요소가 발견되면 Promise를 반환합니다. 요소가 발견되지 않거나 기본 제한 시간인 1000ms후에 둘 이상의 요소가 발견되면 약속이 거부됩니다. 둘 이상의 요소를 찾아야 하는 경우 find all를 사용
 
-  ![image](https://user-images.githubusercontent.com/24623403/143253014-f9545b8a-eff2-4b15-abbf-b4db088d08b1.png)
+![image](https://user-images.githubusercontent.com/24623403/143253014-f9545b8a-eff2-4b15-abbf-b4db088d08b1.png)
